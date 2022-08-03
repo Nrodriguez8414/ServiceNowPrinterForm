@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Issue reporting form">f0d65e652f0111105ca8d2172799b664</catalog_item>
+        <catalog_variable>IO:b9a187612fc111105ca8d2172799b6ae</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>300</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-01 14:58:36</sys_created_on>
+        <sys_id>2da2c7612fc111105ca8d2172799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>problem_description</sys_name>
+        <sys_package display_value="Printer" source="x_857394_printer">41b65e612f0111105ca8d2172799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Printer">41b65e612f0111105ca8d2172799b6aa</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_2da2c7612fc111105ca8d2172799b65d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-01 14:58:36</sys_updated_on>
+        <table/>
+        <ui_policy display_value="If issue type is software">3453a2a12f4111105ca8d2172799b6da</ui_policy>
+        <variable>problem_description</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

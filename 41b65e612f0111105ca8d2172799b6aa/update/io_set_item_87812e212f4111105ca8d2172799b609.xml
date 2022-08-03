@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <sc_cat_item display_value="Issue reporting form">f0d65e652f0111105ca8d2172799b664</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-01 12:34:55</sys_created_on>
+        <sys_id>87812e212f4111105ca8d2172799b609</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contact Info.Issue reporting form</sys_name>
+        <sys_package display_value="Printer" source="x_857394_printer">41b65e612f0111105ca8d2172799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Printer">41b65e612f0111105ca8d2172799b6aa</sys_scope>
+        <sys_update_name>io_set_item_87812e212f4111105ca8d2172799b609</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-01 12:34:55</sys_updated_on>
+        <variable_set display_value="Contact Information">6a916e212f4111105ca8d2172799b689</variable_set>
+    </io_set_item>
+</record_update>
