@@ -14,7 +14,7 @@
         <delivery_plan/>
         <description/>
         <display_title>false</display_title>
-        <do_not_select_first>true</do_not_select_first>
+        <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <enable_also_request_for>false</enable_also_request_for>
@@ -39,12 +39,12 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>problem</name>
-        <order/>
+        <name>color_favorito</name>
+        <order>100</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Problem with the printer?</question_text>
+        <question_text>Color favorito</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -52,7 +52,7 @@
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table/>
-        <reference>sys_user</reference>
+        <reference/>
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text/>
@@ -66,26 +66,26 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-01 11:53:56</sys_created_on>
-        <sys_id>200852e52f0111105ca8d2172799b669</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Problem with the printer?</sys_name>
+        <sys_created_on>2022-08-03 17:36:22</sys_created_on>
+        <sys_id>28897d562f8111105ca8d2172799b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Color favorito</sys_name>
         <sys_package display_value="Printer" source="x_857394_printer">41b65e612f0111105ca8d2172799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Printer">41b65e612f0111105ca8d2172799b6aa</sys_scope>
-        <sys_update_name>item_option_new_200852e52f0111105ca8d2172799b669</sys_update_name>
+        <sys_update_name>item_option_new_28897d562f8111105ca8d2172799b6c0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-04 13:43:42</sys_updated_on>
+        <sys_updated_on>2022-08-03 17:36:22</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>3</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
+        <use_reference_qualifier>advanced</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
-        <variable_set display_value="Issue Type">a4975aa52f0111105ca8d2172799b6e2</variable_set>
+        <variable_set display_value="Colores">c95979562f8111105ca8d2172799b6ff</variable_set>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
@@ -94,22 +94,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=200852e52f0111105ca8d2172799b669"/>
-    <fx_price action="delete_multiple" query="id=200852e52f0111105ca8d2172799b669"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=28897d562f8111105ca8d2172799b6c0"/>
+    <fx_price action="delete_multiple" query="id=28897d562f8111105ca8d2172799b6c0"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>200852e52f0111105ca8d2172799b669</id>
+        <id>28897d562f8111105ca8d2172799b6c0</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-01 11:53:56</sys_created_on>
-        <sys_id>d078dea52f0111105ca8d2172799b68a</sys_id>
+        <sys_created_on>2022-08-03 17:36:22</sys_created_on>
+        <sys_id>940a35962f8111105ca8d2172799b6cc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-01 11:53:56</sys_updated_on>
+        <sys_updated_on>2022-08-03 17:36:22</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -117,16 +117,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>200852e52f0111105ca8d2172799b669</id>
+        <id>28897d562f8111105ca8d2172799b6c0</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-01 11:53:56</sys_created_on>
-        <sys_id>9878dea52f0111105ca8d2172799b689</sys_id>
+        <sys_created_on>2022-08-03 17:36:22</sys_created_on>
+        <sys_id>dc0a35962f8111105ca8d2172799b6ca</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-01 11:53:56</sys_updated_on>
+        <sys_updated_on>2022-08-03 17:36:22</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
